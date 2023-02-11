@@ -275,13 +275,13 @@ def decode(self):
 ## Время работы
 
 <div>
-<img src="./images/time.png">
+<img src="./images/time1.png">
 </div>
 
 ## Процент сжатия
 
 <div>
-<img src="./images/coef.png">
+<img src="./images/coef1.png">
 </div>
 
 # 6. Заключение
