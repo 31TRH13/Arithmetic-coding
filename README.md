@@ -296,7 +296,7 @@ def decode(self):
 
 1. https://neerc.ifmo.ru/wiki/index.php?title=Арифметическое_кодирование
 2. https://habr.com/ru/post/130531/
-3. https://techinsider-ru.turbopages.org/techinsider.ru/s/editorial/701413-skolko- informacii-my-proizvodim-ezhegodno-i-gde-ona-hranitsya/
+3. https://techinsider-ru.turbopages.org/techinsider.ru/s/editorial/701413-skolko-informacii-my-proizvodim-ezhegodno-i-gde-ona-hranitsya/
 4. https://ieeexplore.ieee.org/document/5386860
 5. https://www.comsol.ru/blogs/who-discovered-the-integrated-circuit/
 6. https://theconversation.com/the-worlds-data-explained-how-much-were-producing-and-where-its-all-stored-159964
