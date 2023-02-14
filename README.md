@@ -317,7 +317,7 @@ def decode(self):
 ## Процент сжатия
 
 <div>
-<img src="./images/coef1.png">
+<img src="./images/comp_coef.png">
 </div>
 
 *Зависимость степени сжатия от длины строки*
