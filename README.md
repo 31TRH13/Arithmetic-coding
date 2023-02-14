@@ -317,6 +317,7 @@ def decode(self):
 <div>
 <img src="./images/encoding_time.png">
 </div>
+
 *Зависимость времени работы кодирования от длинны строки*
 
 ### Декодирования
@@ -324,6 +325,7 @@ def decode(self):
 <div>
 <img src="./images/decoding_time.png">
 </div>
+
 *Зависимость времени работы декодирования от длинны строки*
 
 ## Процент сжатия
