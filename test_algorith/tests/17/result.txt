@@ -1,0 +1,10 @@
+Исходное сообщение: 
+MPHNSVCEYYCHJQIMMPNBIVHLQJQJIHXPJKJEJUUJURHHLDDHWZAHEA
+
+Зашифрованное сообщение: 
+0.003553021694782774
+
+Расшифрованное сообщение: 
+MPHNSVCEYYCHJQIMMPNBIVHLQJQJIHXPJKJEJUUJURHHLDDHWZAHEA
+
+Программа правильно расшифровала код
