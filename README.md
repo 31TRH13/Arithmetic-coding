@@ -303,14 +303,14 @@ def decode(self):
 ### Кодирования
 
 <div>
-<img src="./images/encoding_time.png.png">
+<img src="./images/encoding_time.png">
 </div>
 *Зависимость времени работы кодирования от длинны строки*
 
 ### Декодирования
 
 <div>
-<img src="./images/decoding_time.png.png">
+<img src="./images/decoding_time.png">
 </div>
 *Зависимость времени работы декодирования от длинны строки*
 
